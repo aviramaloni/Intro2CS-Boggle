@@ -5,10 +5,19 @@ The Hebrew University of Jerusalem's 'Introduction to Computer Science' course.
 > For more information about the game please visit [Boggle - Wikipedia](https://en.wikipedia.org/wiki/Boggle)
 
 # Table Of Contents
-## General Info
-- [About](#about)
-- [Features](#features)
-- [Requirements](#requirements)
+- About
+  - [Project's Essence](#projects-essence)
+  - [Features](#features)
+  - [Requirements](#requirements)
+
+- How to use
+  - [Installation](#installation)
+  - [Running Through Command Line](#running-through-command-line)
+  - [Running Through Pycharm](#running-through-pycharm)
+ 
+- Screenshots
+  - [Openning screen](#openning-screen)
+  - [Game main screen](#game-main-screen)
 
 ## About
 ### Project's Essence
@@ -31,8 +40,31 @@ to some special features we decided to add:
 - The game has an addictive sound track playing in the background, making
   a true sensation of adventure. 
 
-## Requirements
+### Requirements
 - Python 3.7+
 - tkinter Python package (“Tk interface”)
 - Pygame module
 
+## How to use
+### Installation
+1. Clone this repository into a desired folder on your computer:
+```
+git clone https://github.com/aviramaloni/Intro2CS-Boggle.git
+```
+
+### Running Through Command Line
+1. Go to the cloned project's directory
+2. run the *boggle.py* file
+```
+python3 boggle.py
+```
+### Running Through Pycharm
+1. Open a new pycharm project with all cloned files.
+2. Run the *boggle.py* file by pushing the green **Run** button.
+
+## Screenshots
+### Openning screen
+![image](https://user-images.githubusercontent.com/84475121/142207891-f96812fd-36cd-401d-94e0-3ae5df374d45.png)
+
+### Game main screen
+![image](https://user-images.githubusercontent.com/84475121/142207925-c3f32ca4-8e61-4b1d-9bed-25150b3f9ece.png)
