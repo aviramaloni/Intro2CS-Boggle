@@ -59,8 +59,8 @@ git clone https://github.com/aviramaloni/Intro2CS-Boggle.git
 python3 boggle.py
 ```
 ### Running Through PyCharm
-1. Open a new PyCharm project with all cloned files.
-2. Run the *boggle.py* file by pushing the green **Run** button.
+1. Open a new PyCharm project with all cloned files
+2. Run the *boggle.py* file by pushing the green **Run** button
 
 ## Screenshots
 ### Openning Screen
