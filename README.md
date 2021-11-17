@@ -47,7 +47,7 @@ to some special features we decided to add:
 
 ## How to use
 ### Installation
-1. Clone this repository into a desired folder on your computer:
+1. Clone this repository into a desired folder on your computer
 ```
 git clone https://github.com/aviramaloni/Intro2CS-Boggle.git
 ```
