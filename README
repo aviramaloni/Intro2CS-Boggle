@@ -1,0 +1,17 @@
+In our interpretation of the 'Boggle' game, we decided to concentrate 
+On delivering the best user experience. We truly believe that a good
+Game, is a game which involves all senses. We can honestly say, that
+playing The game, makes an exiting and irresistible experience, all thanks
+To some special features we decided to add:
+- The game appearance is custom made, featuring colourful and intriguing
+  designs. Buttons and backgrounds are designed to match the theme of the
+  Game, using pre-made pictures for their display. Some buttons visually 
+  Feedback the user's actions in the game, giving a live and satisfying
+  Reaction.
+- The game also incorporates sound gestures, using the 'pygame' module, to
+  Even further enhance the user's multi-sensory experience. Each sound
+  Gesture was carefully chosen to match specific actions.
+‫-‬ The game has an addictive sound track playing in the background, making
+  a true sensation of adventure. 
+
+WARNING: THIS GAME IS EXTREMELY ADDICTIVE!
