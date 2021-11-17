@@ -1,7 +1,7 @@
 # Intro2CS-Boggle
 
 This program was designed and created by Aviram Aloni and Assaf Fine, as part of 
-The Hebrew University of Jerusalem's course 'Introduction to Computer Science'.
+The Hebrew University of Jerusalem's 'Introduction to Computer Science' course.
 
 # About
 
