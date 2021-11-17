@@ -13,7 +13,7 @@ The Hebrew University of Jerusalem's 'Introduction to Computer Science' course.
 - How to use
   - [Installation](#installation)
   - [Running Through Command Line](#running-through-command-line)
-  - [Running Through Pycharm](#running-through-pycharm)
+  - [Running Through PyCharm](#running-through-pycharm)
  
 - Screenshots
   - [Openning screen](#openning-screen)
@@ -58,8 +58,8 @@ git clone https://github.com/aviramaloni/Intro2CS-Boggle.git
 ```
 python3 boggle.py
 ```
-### Running Through Pycharm
-1. Open a new pycharm project with all cloned files.
+### Running Through PyCharm
+1. Open a new PyCharm project with all cloned files.
 2. Run the *boggle.py* file by pushing the green **Run** button.
 
 ## Screenshots
