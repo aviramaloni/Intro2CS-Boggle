@@ -4,7 +4,7 @@ The Hebrew University of Jerusalem's 'Introduction to Computer Science' course.
 
 > For more information about the game please visit [Boggle - Wikipedia](https://en.wikipedia.org/wiki/Boggle)
 
-# Table Of Contents
+## Table Of Contents
 - About
   - [Project's Essence](#projects-essence)
   - [Features](#features)
