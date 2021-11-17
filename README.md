@@ -4,7 +4,7 @@ The Hebrew University of Jerusalem's 'Introduction to Computer Science' course.
 
 > For more information about the game please visit [Boggle - Wikipedia](https://en.wikipedia.org/wiki/Boggle)
 
-## Table Of Contents
+## Table of Contents
 - About
   - [Project's Essence](#projects-essence)
   - [Features](#features)
@@ -16,8 +16,8 @@ The Hebrew University of Jerusalem's 'Introduction to Computer Science' course.
   - [Running Through PyCharm](#running-through-pycharm)
  
 - Screenshots
-  - [Openning screen](#openning-screen)
-  - [Game main screen](#game-main-screen)
+  - [Openning Screen](#openning-screen)
+  - [Game Main Screen](#game-main-screen)
 
 ## About
 ### Project's Essence
@@ -63,8 +63,8 @@ python3 boggle.py
 2. Run the *boggle.py* file by pushing the green **Run** button.
 
 ## Screenshots
-### Openning screen
+### Openning Screen
 ![image](https://user-images.githubusercontent.com/84475121/142207891-f96812fd-36cd-401d-94e0-3ae5df374d45.png)
 
-### Game main screen
+### Game Main Screen
 ![image](https://user-images.githubusercontent.com/84475121/142207925-c3f32ca4-8e61-4b1d-9bed-25150b3f9ece.png)
