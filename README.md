@@ -2,6 +2,8 @@
 This program was designed and created by Aviram Aloni and Assaf Fine, as part of 
 The Hebrew University of Jerusalem's 'Introduction to Computer Science' course.
 
+![Jenkins](https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fwso2.org%2Fjenkins%2Fview%2FAll%2520Builds%2Fjob%2Farchetypes)
+
 > For more information about the game please visit [Boggle - Wikipedia](https://en.wikipedia.org/wiki/Boggle)
 
 ## Table of Contents
