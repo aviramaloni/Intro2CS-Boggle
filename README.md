@@ -1,4 +1,4 @@
-# Intro2CS-Boggle
+# Boggle Game
 This program was designed and created by Aviram Aloni and Assaf Fine, as part of 
 The Hebrew University of Jerusalem's *'Introduction to Computer Science'* course.
 
